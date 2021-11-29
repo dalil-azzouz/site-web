@@ -3,6 +3,7 @@
 
 @import url("components/container.css");
 @import url("components/avatar.css");
+@import url("components/button.css");
 @import url("components/banner.css");
 @import url("components/card.css");
 
@@ -11,10 +12,6 @@ body {
   font-family: 'Lora', serif;
   font-size: 18px;
   background-color: whitesmoke;
-  .btn-blue{
-background-color: blue;
-padding: 15px 25px;
-border-radius: 3px;
 color: white;
 font-weight: bold;
 ont-family: 'Open Sans', sans-serif;
